@@ -1,0 +1,11 @@
+u
+o ThisFileDoesNotExists.v
+s MyDoc.v
+p
+o MyDoc.v
+p
++ 0 3 6 4 2
+p
+u
+u
+p
